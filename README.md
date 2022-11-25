@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**TRACY-THE-LEGEND/TRACY-THE-LEGEND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SANO-VAI/SANO-VAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
